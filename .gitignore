@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+*.csv
+data/*.csv
+outputs/*.csv
+figures/*.png
+*.pkl
+*.joblib
