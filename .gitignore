@@ -12,3 +12,9 @@ outputs/*.csv
 figures/*.png
 *.pkl
 *.joblib
+.idea/
+SETUP.md
+
+.DS_Store
+__pycache__/
+*.pyc
